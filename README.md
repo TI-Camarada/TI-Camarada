@@ -1,4 +1,4 @@
-## Hi there 👋
+Baixar os 3 arquivos e executar o interface.py
 
 <!--
 **TI-Camarada/TI-Camarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
